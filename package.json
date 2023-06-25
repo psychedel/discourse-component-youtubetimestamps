@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/bevry/discourse-component-youtubetimestamps#readme",
   "dependencies": {
-    "duration-timestamp": "^2.3.0"
+    "duration-timestamp": "^2.24.0"
   },
   "devDependencies": {
     "@rollup/plugin-node-resolve": "^7.1.3"
